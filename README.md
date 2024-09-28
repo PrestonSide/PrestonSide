@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a>
-     <img src="https://img.shields.io/badge/Personal%20Site-black">
+     <img src="https://img.shields.io/badge/Personal%20Site-gray">
   </a>
 </div>
 <div align="center">
