@@ -4,11 +4,13 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/preston-sidenstricker-0b3084227/">
-    <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg" height=500>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Personal%20Site-black">
   </a>
+</div>
+<div>
+  <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg" height=500>
 </div>
 
 
