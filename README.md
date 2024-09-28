@@ -2,14 +2,14 @@
   <h1>Hello!</h1>
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </div>
-<div align="center">
+<div align="center" position="flex">
   <a href="https://www.linkedin.com/in/preston-sidenstricker-0b3084227/">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Personal%20Site-black">
   </a>
 </div>
-<div>
+<div align="center">
   <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg" height=500>
 </div>
 
