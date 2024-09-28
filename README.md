@@ -19,6 +19,14 @@
 My name is Preston Sidenstricker and im a junior at the University of Illinois Urbana-Champaign. Im currently majoring in Industrial Engineering with a minor in Computer Science. I am currently looking for summer internships in various tech fields such as software engineering, data analytics etc. Feel free to visit some of my projects and reach out for more info!
 
 ## Frameworks/Languages:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg">
+</div>
 <!--
 **PrestonSide/PrestonSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
