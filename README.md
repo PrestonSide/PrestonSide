@@ -1,4 +1,7 @@
-## Hello!
+<div id="header" align="center">
+  ## Hello!
+</div>
+
 
 
 ## About me:
