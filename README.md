@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello!</h1>
-  <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg">
+  <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg" height=100>
 </div>
 
 
