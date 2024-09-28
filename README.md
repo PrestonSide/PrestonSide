@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1>Hello!</h1>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   <img src="https://facts.net/wp-content/uploads/2023/09/16-astonishing-facts-about-grainger-engineering-library-information-center-1695408357.jpg" height=500>
 </div>
 
