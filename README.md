@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1>Hello!</h1>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </div>
 <div align="center" position="flex">
   <a href="https://www.linkedin.com/in/preston-sidenstricker-0b3084227/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Personal%20Site-black">
