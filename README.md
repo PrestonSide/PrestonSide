@@ -1,5 +1,8 @@
 ## Hello!
 
+
+About me:
+My name is Preston Sidenstricker and im a junior at the University of Illinois Urbana-Champaign. Im currently majoring in Industrial Engineering with a minor in Computer Science. I am currently looking for summer internships in various tech fields such as software engineering, data analytics etc. Feel free to visit some of my projects and reach out for more info!
 <!--
 **PrestonSide/PrestonSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
